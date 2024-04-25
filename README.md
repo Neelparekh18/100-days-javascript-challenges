@@ -4,3 +4,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 01_day.js - Longest Word in a String
 ## 02_day.js - Hash Tag Generator
 ## 03_day.js - Count Occurence Of Character
+## 04_day.js - check Triangle type
