@@ -6,3 +6,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 03_day.js - Count Occurence Of Character
 ## 04_day.js - check Triangle type
 ## 05_day.js - Sort an array
+## 06_day.js - check palindrome
