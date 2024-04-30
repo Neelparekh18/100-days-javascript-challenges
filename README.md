@@ -7,3 +7,5 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 04_day.js - check Triangle type
 ## 05_day.js - Sort an array
 ## 06_day.js - check palindrome
+## 07_day.js - Finding maximum number in an array
+## 08_day.js - Factorial Finder
