@@ -9,3 +9,6 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 06_day.js - check palindrome
 ## 07_day.js - Finding maximum number in an array
 ## 08_day.js - Factorial Finder
+## 09_day.js - Calculate the Average
+## 10_day.js - Checking Array Equality
+## 11_day.js - Sum of Digits Calculation
