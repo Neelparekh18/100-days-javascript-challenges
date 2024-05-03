@@ -12,3 +12,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 09_day.js - Calculate the Average
 ## 10_day.js - Checking Array Equality
 ## 11_day.js - Sum of Digits Calculation
+## 12_day.js - Removing Duplicate Elements from an Array
