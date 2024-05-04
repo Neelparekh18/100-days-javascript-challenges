@@ -14,3 +14,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 11_day.js - Sum of Digits Calculation
 ## 12_day.js - Removing Duplicate Elements from an Array
 ## 13_day.js - Counting Vowels in a String
+## 14_day.js - Identifying Power of Two
