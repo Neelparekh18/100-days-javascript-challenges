@@ -16,4 +16,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 13_day.js - Counting Vowels in a String
 ## 14_day.js - Identifying Power of Two
 ## 15_day.js - Calculate the Sum of Squares in an Array
-## 16_day.js - Identifying Power of Two
+## 16_day.js - Find the minimum value in an array
