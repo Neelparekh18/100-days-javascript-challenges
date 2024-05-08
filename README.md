@@ -15,3 +15,5 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 12_day.js - Removing Duplicate Elements from an Array
 ## 13_day.js - Counting Vowels in a String
 ## 14_day.js - Identifying Power of Two
+## 15_day.js - Calculate the Sum of Squares in an Array
+## 16_day.js - Identifying Power of Two
