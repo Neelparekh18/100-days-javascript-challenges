@@ -8,7 +8,7 @@
 const str = "Hello world";
 const subStr = "hello";
 const startsWith = (str, substr) => {
-  return str.toUpperCase().startsWith(subStr.toUpperCase());
+  return str.toUpperCase().startsWith(substr.toUpperCase());
 };
 const result = startsWith(str, subStr);
 console.log(result);
