@@ -23,3 +23,5 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 20_day.js - String Revarsal without using inbuilt method
 ## 21_day.js - Calculate Mean
 ## 22_day.js - Find Median
+## 23_day.js - Count Occurrences in Array: Element Frequency Tally
+## 24_day.js - Find Mode
