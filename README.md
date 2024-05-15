@@ -17,3 +17,7 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 14_day.js - Identifying Power of Two
 ## 15_day.js - Calculate the Sum of Squares in an Array
 ## 16_day.js - Find the minimum value in an array
+## 17_day.js - String Transformation: CamelCase Conversion
+## 18_day.js - Character Case Checker: Uppercase or Lowercase?
+## 19_day.js - Initial Substring Detector: String Start Check
+## 20_day.js - String Revarsal without using inbuilt method
