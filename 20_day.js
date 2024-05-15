@@ -1,6 +1,6 @@
 //Date: 10/05/24
 
-// Question: "Initial Substring Detector: String Start Check"
+// Question: "String Revarsal without using inbuilt method"
 
 // Task:
 // Write a function to reverse a string without using in-built methods or libraries. The function should take a string as an input and return the reversed string.
