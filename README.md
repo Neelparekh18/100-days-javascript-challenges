@@ -22,3 +22,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 19_day.js - Initial Substring Detector: String Start Check
 ## 20_day.js - String Revarsal without using inbuilt method
 ## 21_day.js - Calculate Mean
+## 22_day.js - Find Median
