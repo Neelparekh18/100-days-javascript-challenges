@@ -16,4 +16,4 @@ const repeatString = (str, num) => {
   return newStr.length > 0 ? newStr : str
 };
 const result = repeatString(str, num);
-console.log(result)
+console.log(result);
