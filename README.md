@@ -27,3 +27,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 24_day.js - Find Mode
 ## 25_day.js - Find factorial
 ## 26_day.js - Calculate the Nth Fibonacci Term
+## 27_day.js - Repeat a String
