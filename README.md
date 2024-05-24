@@ -28,3 +28,6 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 25_day.js - Find factorial
 ## 26_day.js - Calculate the Nth Fibonacci Term
 ## 27_day.js - Repeat a String
+## 28_day.js - Truncate a String
+## 29_day.js - Number Range Generator
+## 30_day.js - Recursive Number Range Generator
