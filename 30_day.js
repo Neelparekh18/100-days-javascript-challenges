@@ -1,6 +1,6 @@
 //Date: 20/05/24
 
-// Question: "Number Range Generator"
+// Question: "Recursive Number Range Generator"
 
 // Task:
 // Write a recursive function called numberRangeRecursive that generates an array containing consecutive numbers from a to b (inclusive).
