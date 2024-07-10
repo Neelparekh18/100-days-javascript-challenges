@@ -45,3 +45,4 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 42_day.js - Validate a credit card number (luhn algorithm)
 ## 43_day.js - FizzBuzz Challange
 ## 44_day.js - Password Validation
+## 44_day.js - Password Validation
