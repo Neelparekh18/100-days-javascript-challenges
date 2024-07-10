@@ -31,3 +31,17 @@ This repository contains a collection of JavaScript challenges designed for a 10
 ## 28_day.js - Truncate a String
 ## 29_day.js - Number Range Generator
 ## 30_day.js - Recursive Number Range Generator
+## 31_day.js - Password Validator
+## 32_day.js - Remove element
+## 33_day.js - Random Hex Color Generator
+## 34_day.js - Remove Duplicates
+## 35_day.js - Check Object Emptiness
+## 36_day.js - Convert an Object to an Array and vice versa
+## 37_day.js - Simple Interest Calculator
+## 38_day.js - Number of days between two dates
+## 39_day.js - Calculate Age from birthdate 
+## 40_day.js - Simple Bar Chart From Array Data
+## 41_day.js - Simple currency convertor
+## 42_day.js - Validate a credit card number (luhn algorithm)
+## 43_day.js - FizzBuzz Challange
+## 44_day.js - Password Validation
