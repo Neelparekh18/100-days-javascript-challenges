@@ -7,6 +7,7 @@
 
 let password1 = "NeelParekh0711";
 let password2 = "neel0711";
+let password2 = "neel0711";
 function simplePasswordValidator(pass) {
   let passRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[A-Za-z\d]{8,}$/;
 
